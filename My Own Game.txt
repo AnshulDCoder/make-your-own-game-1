@@ -1,0 +1,16 @@
+
+Title:
+Archery Contest
+
+Goal:
+To defeat the other other person by hitting them with 3 arrows
+
+NPC's and PC's:
+You and your opponent who is playing with you (2-player game)
+
+Design:
+There will be 2 people on platforms shooting eachother with a bow
+
+They will play on a computer
+
+I will create the project with Visual Studio Code
